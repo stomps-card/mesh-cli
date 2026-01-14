@@ -1,5 +1,25 @@
 # Contributing to mesh-cli
 
+We welcome contributions to mesh-cli! Please follow these guidelines to help
+make the process smooth and efficient.
+
+## Reporting Issues
+- Clearly describe the issue.
+- Provide steps to reproduce if possible.
+- Include relevant details like environment setup, error messages, etc.
+
+## Submitting Pull Requests
+- Fork the repository and create a new branch.
+- Keep the changes small and focused on a single issue.
+- Write clear commit messages.
+- Ensure all tests pass before submitting.
+
+## Code Style
+- Follow the existing code style and structure.
+- Add tests for new features or bug fixes.
+- Update documentation as needed.
+
+
 ## Code of Conduct
 
 All interactions with this project follow our [Code of Conduct](https://github.com/coinbase/code-of-conduct). By participating, you are expected to honor this code. Violators can be banned from further participation in this project, or potentially all Coinbase projects.
